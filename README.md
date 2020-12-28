@@ -1,0 +1,2 @@
+# ls-botlar
+lores
